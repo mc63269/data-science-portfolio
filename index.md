@@ -28,6 +28,8 @@ This portfolio presents my analysis projects and documents my progress in reprod
 
 ![Monthly airline passenger trend from 1949 to 1960](passengers_trend.png)
 
+**At a glance:** Passenger numbers increased over the period, with recurring summer peaks. These historical patterns do not explain their causes or represent present-day airline demand.
+
 The line chart shows a long-term increase in passenger numbers alongside recurring seasonal fluctuations. The heatmap in the project repository provides a complementary comparison across months and years.
 
 Annual passenger totals increased approximately 3.76-fold between 1949 and 1960. July and August had the highest average monthly values across the period.
